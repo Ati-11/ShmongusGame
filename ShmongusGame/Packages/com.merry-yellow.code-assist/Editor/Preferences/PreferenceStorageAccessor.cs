@@ -200,7 +200,7 @@ namespace Meryel.UnityCodeAssist.Editor.Preferences
 
 #elif UNITY_EDITOR_OSX
 
-    public class MacPrefStorage : PreferanceStorageAccessor
+    public class MacPrefStorage : PreferenceStorageAccessor
     {
         private readonly FileSystemWatcher fileWatcher;
         private readonly DirectoryInfo prefsDirInfo;
