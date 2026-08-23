@@ -15,7 +15,7 @@ MonoBehaviour:
   Path: ShmongusGame/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639231131997600799
+  lastModified: 639231124008566141
   FileSizes:
   - Name: Desktop
     Value: 2068
@@ -70,7 +70,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 1678150787188580203}
   cacheVersion: 131860
-  cacheTime: 639231131997601484
+  cacheTime: 639231124008566141
   SerializableEventsDict:
   - key: event:/New Event
     index: 0
@@ -89,7 +89,7 @@ MonoBehaviour:
   Path: ShmongusGame/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639231131997601484
+  lastModified: 639231124008566141
   FileSizes:
   - Name: Desktop
     Value: 770

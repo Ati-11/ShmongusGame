@@ -301,10 +301,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   horizontalInput: 1
   verticalInput: 1
-  mouseSensitivity: 1
+  mouseSensitivity: 14
   walkSpeed: 5
   playerCamera: {fileID: 3269287774124361654}
-  crouchheight: 0.2
-  standheight: 0.35
+  crouchheight: 0.5
+  standheight: 1
   crouchspeed: 5
   crouchwalkspeed: 0.5
